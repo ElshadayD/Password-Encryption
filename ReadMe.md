@@ -1,6 +1,6 @@
-# Flask Password Manager
+# Flask Password Encryption
 
-A simple Flask application for user registration, login, and basic password management.
+A simple Flask application for user registration, login, and basic password encryption.
 
 ## Overview
 
